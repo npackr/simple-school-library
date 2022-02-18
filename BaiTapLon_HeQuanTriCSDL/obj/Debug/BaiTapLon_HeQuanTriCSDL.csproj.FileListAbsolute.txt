@@ -1,0 +1,12 @@
+C:\Users\NPACkr\source\repos\BaiTapLon_HeQuanTriCSDL\BaiTapLon_HeQuanTriCSDL\bin\Debug\BaiTapLon_HeQuanTriCSDL.exe.config
+C:\Users\NPACkr\source\repos\BaiTapLon_HeQuanTriCSDL\BaiTapLon_HeQuanTriCSDL\bin\Debug\BaiTapLon_HeQuanTriCSDL.exe
+C:\Users\NPACkr\source\repos\BaiTapLon_HeQuanTriCSDL\BaiTapLon_HeQuanTriCSDL\bin\Debug\BaiTapLon_HeQuanTriCSDL.pdb
+C:\Users\NPACkr\source\repos\BaiTapLon_HeQuanTriCSDL\BaiTapLon_HeQuanTriCSDL\obj\Debug\BaiTapLon_HeQuanTriCSDL.csprojAssemblyReference.cache
+C:\Users\NPACkr\source\repos\BaiTapLon_HeQuanTriCSDL\BaiTapLon_HeQuanTriCSDL\obj\Debug\BaiTapLon_HeQuanTriCSDL.BangDieuKhien.resources
+C:\Users\NPACkr\source\repos\BaiTapLon_HeQuanTriCSDL\BaiTapLon_HeQuanTriCSDL\obj\Debug\BaiTapLon_HeQuanTriCSDL.F_QLSACH.resources
+C:\Users\NPACkr\source\repos\BaiTapLon_HeQuanTriCSDL\BaiTapLon_HeQuanTriCSDL\obj\Debug\BaiTapLon_HeQuanTriCSDL.Properties.Resources.resources
+C:\Users\NPACkr\source\repos\BaiTapLon_HeQuanTriCSDL\BaiTapLon_HeQuanTriCSDL\obj\Debug\BaiTapLon_HeQuanTriCSDL.csproj.GenerateResource.cache
+C:\Users\NPACkr\source\repos\BaiTapLon_HeQuanTriCSDL\BaiTapLon_HeQuanTriCSDL\obj\Debug\BaiTapLon_HeQuanTriCSDL.csproj.CoreCompileInputs.cache
+C:\Users\NPACkr\source\repos\BaiTapLon_HeQuanTriCSDL\BaiTapLon_HeQuanTriCSDL\obj\Debug\BaiTapLon_HeQuanTriCSDL.exe
+C:\Users\NPACkr\source\repos\BaiTapLon_HeQuanTriCSDL\BaiTapLon_HeQuanTriCSDL\obj\Debug\BaiTapLon_HeQuanTriCSDL.pdb
+C:\Users\NPACkr\source\repos\BaiTapLon_HeQuanTriCSDL\BaiTapLon_HeQuanTriCSDL\obj\Debug\BaiTapLon_HeQuanTriCSDL.listbox_Name.resources
